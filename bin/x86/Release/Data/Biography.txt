@@ -1,0 +1,135 @@
+In 1982, the Amiga Corporation developed "Lorraine" a computer that was named after the wife of the company's president. Amiga incorporated a 16-bit 68000 chip as Lorraine's CPU. Lorraine featured two dedicated graphics and sound chips.
+
+By the time Lorraine was introduced at the Consumer Electronics Show on January 4, 1984, the developmental costs that Amiga had devoted to it had exceeded its resources. After Atari showed interest in purchasing the company, Commodore stepped in to outbid the console giant and renamed the system the Amiga. 
+
+Commodore made some slight modifications to the Amiga. The system's memory was upgraded to 256KB and the console was redesigned to accommodate keyboard storage underneath it. Commodore finally released the Amiga 1000 in July 1985 at a retail price of $1,295. It was compatible with home television sets and could be utilized for video editing. It featured a palette of 4,096 colors and was capable of 320 x 200 resolution. The system also featured a 3.5 inch floppy disk drive that could externally store up to 880KB. 
+
+The "Paula" sound chip enabled programs to be heard in stereo. The system featured two mouse/controller ports. Such peripherals as joysticks, light pens or game paddles could be used with the system. Even in its early stages of release, Commodore chose to promote the Amiga as a game machine.
+
+The "kickstart" was a small part of the operating system that was contained in the ROM. The Amiga performed a kickstart or initiated the loading of the operating system itself every time the computer was activated. To fully load the operating system a 3.5 inch AmigaDos disk needed to be inserted into the external drive. Every time the computer was shut off, the operating system was lost from memory and needed to be reloaded.
+
+The Amiga 1000 was capable of "multitasking." A concept similar to Windows 95, multitasking allowed users to keep two or more programs open at one time and instantly switch between them. The "Workbench" was the Amiga's file manager. Workbench allowed users to open windows and run programs.
+
+In 1987, Commodore released the Amiga 500 and the Amiga 2000. The Amiga 500 was a compact system that became the best selling computer in the Amiga line. Among the improvements Commodore incorporated into the Amiga 500 were an updated operating system (AmigaDOS 1.2), 512KB RAM and a bigger keyboard. The Amiga 2000 featured a new computer case design, expansion slots and a CPU slot for future processor upgrades. It was powered by a 68000 microprocessor.
+
+The Amiga 3000 improved on the Amiga 2000 by offering new Zorro III expansion slots, an integrated SCSI interface and a built-in hard drive. It used a 68030 32-bit microprocessor and a new version of Workbench.
+
+In 1992 Commodore released the Amiga 600. Commodore promoted the system as a video game console with a keyboard. It quickly vanished from store shelves. Later that year Commodore released the Amiga 4000 and the Amiga 1200. The 4000 featured the speedy 68040 processor. It could display up to 256,000 colors on-screen at once. The 1200 was a compact system that combined the CPU, keyboard and disk drive into a single unit. It was similar in design to the Amiga 500. It utilized the 68020 processor and could run at 14.28MHz.
+
+In October 1993 Commodore introduced the Amiga CD 32. This 32-bit CD-ROM based add-on featured a palette of 17 million colors. It retailed for $400 and had a built-in catalog of software because it was compatible with game titles for the failed Commodore CDTV multimedia system. Timing for the CD 32's release was not perfect. Several other CD-ROM based gaming consoles, like the 3DO and Sega CD, were released at the same time and flooded the market. The Amiga CD 32 system never gained a following.
+
+Unfortunately, software developers rarely released programs that displayed the full potential of the Amiga's impressive graphics. The system was much more technologically advanced than its competitors. Ultimately the Amiga was viewed as an expensive gaming console, and as software support dwindled, so did sales. On April 29, 1994 Commodore announced that it was in the process of closing the company.
+
+SYSTEMS:
+
+Amiga A 500
+Released in 1987
+
+Technical specifications
+Motorola MC68000, 7,16 MHZ
+OS 1.2, 1.3 (A500) / 2.04 (A500+)
+Chipset OCS (A500) / ECS (A500+)
+4Channel Stereo-Sound
+ChipRAM 512KB (A500) / 1MB (A500+)
+880KB Floppy
+Interfaces for Memory-Expansion, Accelerator-Card, Harddisk, etc. Serial-, Parallel-, RGB-, Mouse- and Joystickport.
+
+Amiga A 600
+Released in 1991
+
+Technical specifications
+Motorola MC68000, 7,16 MHZ
+OS 2.04 / 2.05
+ECS Chipset
+4Channel Stereo-Sound
+1MB ChipRAM
+880KB Floppy
+Built in interface for 2,5" IDE Harddisk, PCMCIA-Slot for Memory-Expansion, SCSI CD-ROM, Harddisk etc. Serial-, Parallel-, RGB-, Mouse- and Joystickport.
+
+Amiga CDTV
+Released in 1991
+
+Technical specifications
+Motorola MC68000, 7,16 MHZ
+OS 1.3
+ECS Chipset
+4Channel Stereo-Sound
+1MB ChipRAM
+CD-ROM
+IR Remote Control
+Serial-, Parallel-, RGB-, Mouse- and Joystickport, MIDI IN/OUT Optional: Keyboard, external 880KB-Floppy, Trackball
+
+Amiga CD32
+Released 1993
+
+Technical specifications
+Motorola MC68EC020, 14,19 MHZ
+OS 3.1
+AA Chipset
+4Channel Stereo-Sound
+2MB ChipRAM
+1KB FlashROM
+CD-ROM
+Gamepad
+Serialport, two Gameports. Interfaces for Keyboard, external Floppy, S-VHS.
+
+Amiga A 1000
+Released in 1985
+
+Technical specifications
+Motorola MC68000, 7,16 MHZ
+OS 1.0 - 1.3
+OCS Chipset
+4Channel Stereo-Sound
+256KB ChipRAM
+880KB Floppy
+Interfaces for Memory-Expansion, 3,5" / 5,25"-Floppy, Harddisk. Serial-, Parallel-, RGB-, Mouse- and Joystickport.
+
+
+Amiga A 2000
+Released in 1987
+
+Technical specifications
+Motorola MC68000, 7,16 MHZ (A2000), MC68020/MC68030 (A2500)
+OS 1.2 - 2.04
+OCS/ECS Chipset
+4Channel Stereo-Sound
+512KB / 1MB ChipRAM
+880KB Floppy
+5 ZorroII-Slots for Memory, HD-Controller, Graphics-/Soundcard etc.
+CPU-Upgrade-Slot, Serial-, Parallel-, RGB-, Mouse- and Joystickport. 
+Controller A2091 (A2500)
+
+
+Amiga A 3000
+Released in 1990
+
+Technical specifications
+Motorola MC68030, 25 MHZ, CoProcessor 68882
+OS 2.04
+ECS Chipset
+Flickerfixer
+4Channel Stereo-Sound
+RAM: 2MB (A3000) / 9MB (A3000UX)
+Harddisk
+880KB Floppy
+4 ZorroII/III-Slots for Memory-Expansion, Graphics-/Soundcard etc.
+CPU-Upgrade-Slot, SCSI-Interface, Serial-, Parallel-, RGB-, Mouse- and Joystickport.
+Ethernetcard A2065 (A3000UX)
+UNIX V4 and X Windows (A3000UX)
+
+
+Amiga A 3000T
+Released in 1990
+
+Technical specifications
+Motorola MC68030, 25 MHZ, CoProcessor 68882
+OS 2.04
+ECS Chipset
+Flickerfixer
+4Channel Stereo-Sound
+5MB RAM
+Harddisk
+880KB Floppy
+5 ZorroII/III-Slots for Memory-Expansion, Graphics-/Soundcard etc.
+CPU-Upgrade-Slot, SCSI-Interface, Serial-, Parallel-, RGB-, Mouse- and Joystickport.
