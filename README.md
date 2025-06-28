@@ -19,19 +19,19 @@ WinUAE Loader is a WinUAE launcher for arcade cabinets. It supports GameBase Ami
 
 ## Screenshots
 
-![](/images/winuaeloader01.png)
+![](/.github/img/WinUAELoader01.png)
 
-![](/images/winuaeloader02.png)
+![](/.github/img/WinUAELoader02.png)
 
-![](/images/winuaeloader03.png)
+![](/.github/img/WinUAELoader03.png)
 
-![](/images/winuaeloader04.png)
+![](/.github/img/WinUAELoader04.png)
 
-![](/images/winuaeloader05.png)
+![](/.github/img/WinUAELoader05.png)
 
-![](/images/winuaeloader06.png)
+![](/.github/img/WinUAELoader06.png)
 
-![](/images/winuaeloader07.png)
+![](/.github/img/WinUAELoader07.png)
 
 ## Usage
 
