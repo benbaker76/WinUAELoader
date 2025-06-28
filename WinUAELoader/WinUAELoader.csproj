@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="Amiga.ico" />
+		<Content Include="../README.md" Pack="true" PackagePath="\" />
+		<None Include="../LICENSE" Pack="true" PackagePath="\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.OleDb" Version="9.0.6" />
+		<PackageReference Include="System.Management" Version="9.0.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Interop.ADOX">
+			<HintPath>libs\Interop.ADOX.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.DirectX.DirectInput">
+			<HintPath>libs\Microsoft.DirectX.DirectInput.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+	<PropertyGroup>
+		<Version>1.78.0</Version>
+		<AssemblyVersion>1.78.0.0</AssemblyVersion>
+		<FileVersion>1.78.0.0</FileVersion>
+		<PackageVersion>1.78.0</PackageVersion>
+		<ApplicationIcon>Amiga.ico</ApplicationIcon>
+	</PropertyGroup>
+
+</Project>

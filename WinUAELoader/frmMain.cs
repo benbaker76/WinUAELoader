@@ -8,11 +8,12 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
+using System.IO;
+using System.Reflection;
 using System.Text;
 using System.Windows.Forms;
-using System.Diagnostics;
-using System.IO;
 
 namespace WinUAELoader
 {
@@ -55,8 +56,10 @@ namespace WinUAELoader
         {
             try
             {
-                this.Text = this.Text.Replace("[VERSION]", Global.Version);
-                this.lblAbout.Text = this.lblAbout.Text.Replace("[VERSION]", Global.Version);
+                var version = Assembly.GetExecutingAssembly().GetName().Version;
+
+                this.Text = this.Text.Replace("[VERSION]", version.ToString(3));
+                this.lblAbout.Text = this.lblAbout.Text.Replace("[VERSION]", version.ToString(3));
 
                 GetDatabaseVersion();
 

@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.Windows.Forms;
 using System.Diagnostics;
 using System.IO;
+using System.Reflection;
+using System.Windows.Forms;
 
 namespace WinUAELoader
 {
@@ -70,9 +71,11 @@ namespace WinUAELoader
             Settings.WHDRun.Exe = Path.Combine(Settings.Folder.WHDRun, "whdrun.exe");
             Settings.WHDRun.IniFile = Path.Combine(Settings.Folder.WHDRun, @"whdrun-data\" + "__WHDRun__Games.ini");
 
+            var version = Assembly.GetExecutingAssembly().GetName().Version;
+
             LogFile.FileName = Settings.File.Log;
             LogFile.ClearLog();
-            LogFile.WriteEntry("WinUAELoader " + Global.Version);
+            LogFile.WriteEntry("WinUAELoader " + version.ToString(3));
 
             try
             {

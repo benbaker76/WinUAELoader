@@ -32,7 +32,6 @@ namespace WinUAELoader
     {
         public static string[] RomTypeString = { "GameBase", "WHDLoad", "SPS", "DemoBase" };
         public static string[] ArtworkTypeString = { "Title Screen", "Screenshot 1", "Screenshot 2", "Box Art Front", "Box Art Back" };
-        public static string Version = "v1.78";
         public static GBDatabase GBDatabase = null;
 
         public static frmMain MainForm = null;
